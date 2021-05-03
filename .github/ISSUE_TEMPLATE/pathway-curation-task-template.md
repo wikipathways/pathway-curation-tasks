@@ -1,5 +1,5 @@
 ---
-name: Pathway Curation Task template
+name: Template: Pathway Curation Task
 about: Use this template to describe a pathway curtion task
 title: Suggested Pathway Title
 labels: ''
