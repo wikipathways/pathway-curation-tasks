@@ -12,4 +12,4 @@ Pathway figure or screenshot to start with:
 Link to paper, figure or other relevant sources:
  * <insert link if applicable>
 
-*Template Note: Browse the **Labels** on the right and add all that apply*
+*Template Notes: Browse the **Labels** on the right and add all that apply. If a GPML with starter content is available, attach it below.*
