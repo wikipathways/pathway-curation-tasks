@@ -1,6 +1,6 @@
-name: Improve Pathway Task
-description: Report an issue with a pathway at WikiPathways
-title: "[Pathway Content Issue]: "
+name: Improve Pathway
+description: Suggest improvements to an existing pathway model
+title: "[Improve Pathway]: "
 labels: ["needs work"]
 body:
   - type: markdown
