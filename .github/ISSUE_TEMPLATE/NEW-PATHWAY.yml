@@ -1,0 +1,25 @@
+name: New Pathway
+description: Suggest a new pathway model
+title: "[New Pathway]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this issue report!
+  - type: textarea
+    id: pathway-source
+    attributes:
+      label: Pathway Source URL(s)
+      description: Add links to published papers, figure or other relevant source (open source)
+      placeholder: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6143874/
+    validations:
+      required: true
+  - type: textarea
+    id: curation-tasks
+    attributes:
+      label: Notes
+      description: Add any notes relevant to the proposed pathway model
+      placeholder: Notes
+      value: "This pathway content is not previously covered at WikiPathways....."
+    validations:
+      required: false
