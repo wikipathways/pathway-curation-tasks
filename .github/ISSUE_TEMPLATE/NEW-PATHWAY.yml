@@ -5,7 +5,15 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this issue report!
+        Thanks for letting us know of new potential pathway models! Make sure to add the suggested pathway title or topic in the title above.
+  - type: input
+    id: pathway-title
+    attributes:
+      label: Suggested pathway title
+      description: Suggest a title for the new pathway model. If the pathway is from a published paper figure, the title could be a variation of the figure caption.
+      placeholder: AK-STAT signaling in the regulation of Beta-cells
+    validations:
+      required: false
   - type: textarea
     id: pathway-source
     attributes:
