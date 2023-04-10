@@ -1,0 +1,26 @@
+name: Improve Pathway Task
+description: Report an issue with a pathway at WikiPathways
+title: "[Pathway Content Issue]: "
+labels: ["needs work"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this issue report!
+  - type: input
+    id: pathway-url
+    attributes:
+      label: Pathway URL
+      description: Add a link to the pathway that is in need of improvement.
+      placeholder: https://classic.wikipathways.org/index.php/Pathway:WP615
+    validations:
+      required: false
+  - type: textarea
+    id: curation-tasks
+    attributes:
+      label: Suggested imoprovements
+      description: What are the specific things that need to be improved?
+      placeholder: List of things to do
+      value: "The pathway is missing database identifiers and inetractions"
+    validations:
+      required: true
