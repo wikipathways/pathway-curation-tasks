@@ -21,6 +21,6 @@ body:
       label: Suggested imoprovements
       description: What are the specific things that need to be improved?
       placeholder: List of things to do
-      value: "The pathway is missing database identifiers and inetractions!"
+      value: "The pathway is missing database identifiers and interactions!"
     validations:
       required: true
