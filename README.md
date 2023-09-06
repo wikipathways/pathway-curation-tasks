@@ -10,11 +10,11 @@ This repository organizes prioritized pathway curation tasks for [WikiPathways](
 
 Curation tasks are labeled to make it easier to find a task of interest to you:
 
-- By topic area: for example drug mechanism pathway, disease genes
-- By novelty in terms of gene content: for example novel disease genes, novel genes
-- By Community: for example [Lipid](https://www.wikipathways.org/communities/lipids.html), [Disease](https://www.wikipathways.org/communities/diseases.html), [CPTAC](https://www.wikipathways.org/communities/cptac.html)
-- By difficulty level: good first issue (simpler tasks designed for beginners), needs work (more challenging tasks related to updating existing pathways)
-- By source material: KEGG (suggested pathways insipred by the [KEGG database](https://www.genome.jp/kegg/pathway.html)), PFOCR (suggested new pathways from published pathway figures in the [PFOCR database](https://pfocr.wikipathways.org/))
+- By topic area: for example **drug mechanism pathway**, **disease genes**
+- By novelty in terms of gene content: for example **novel disease genes**, **novel genes**
+- By Community: for example **[Lipid](https://www.wikipathways.org/communities/lipids.html)**, **[Disease](https://www.wikipathways.org/communities/diseases.html)**, **[CPTAC](https://www.wikipathways.org/communities/cptac.html)**
+- By difficulty level: **good first issue** (simpler tasks designed for beginners), **needs work** (more challenging tasks related to updating existing pathways)
+- By source material: **KEGG** (suggested pathways insipred by the [KEGG database](https://www.genome.jp/kegg/pathway.html)), **PFOCR** (suggested new pathways from published pathway figures in the [PFOCR database](https://pfocr.wikipathways.org/))
 
 ### By search
 
