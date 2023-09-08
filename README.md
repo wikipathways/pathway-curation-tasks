@@ -1,4 +1,4 @@
-# pathway-curation-tasks
+# WikiPathways Curation Tasks
 This repository organizes prioritized curation tasks for [WikiPathways](https://www.wikipathways.org/). Each separate curation task is described in a GitHub "issue".
 
 
