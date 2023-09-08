@@ -2,7 +2,7 @@
 This repository organizes prioritized pathway curation tasks for [WikiPathways](https://www.wikipathways.org/). Each separate curation task is described in a GitHub "issue".
 
 
-**=>START HERE: [View All Pathway Curation Tasks](https://github.com/wikipathways/pathway-curation-tasks/issues)**
+**=> START HERE: [View All Pathway Curation Tasks](https://github.com/wikipathways/pathway-curation-tasks/issues)**
 
 ## Finding a curation task of interest
 
